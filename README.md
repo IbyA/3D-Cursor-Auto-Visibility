@@ -5,7 +5,7 @@ Transitioning from Maya to blender was really easy because everything I needed w
 
 If anyone coming from 3DS Max or Maya (Not sure about Modo, never used it) and using industry compatible keymap but finds the 3D cursor odd then use this addon.
 
-Also, remember to call these operators in the keymap on Press and Release (Of course, you can change it to your preferences): ![](images/)
+Also, remember to call these operators in the keymap on Press and Release (Of course, you can change it to your preferences): ![](Call%20Operator%20in%20Shortcut.png)
 
 I put mine on the \ key because it's not usually used in any software I know of.
 
