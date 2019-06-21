@@ -1,4 +1,4 @@
-# Show-modify-and-Hide-cancel-the-3D-Cursor-based-on-keyboard-shortcut.
+# Show_Hide 3D Cursor Automation V1.2.
 Blender Python Script/Addon. Shows and allows modification to the 3D Cursor Location when button is held down. Hides and switches tool when released
 
 Transitioning from Maya to blender was really easy because everything I needed was in the UI and learning the Industry compatible keymap didn't take much time either. However, the 3D cursor feels odd coming from Maya. I wanted it to emulate the 'D' key for edit pivot in Maya. where you hold down the button and It reveals the edit pivot gizmo while allowing you to make all modifications. Then on release, it Hides away and cannot be edited.
