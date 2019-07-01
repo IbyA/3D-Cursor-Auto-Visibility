@@ -1,4 +1,4 @@
-bl_info = 
+bl_info = {
     "name": "Show/Hide3D Cursor",
     "author": "Iby. Thanks to assistance given by ScaredyFish and Iceythe",
     "version": (1.5, 0),
