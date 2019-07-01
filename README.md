@@ -13,4 +13,4 @@ I have attached the addon to this email. Feel free to take a look. I have set th
 
 Also, Feel free to change the shortcut via keymap. just remember to call the operator: wm.3dcursor_autovisibility
 
-Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys!!😀
+Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys😀
