@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Show/Hide3D Cursor",
-    "author": "Iby. Thanks to assistance given by Iceythe",
+    "author": "Iby. Thanks to assistance given by ScaredyFish and Iceythe",
     "version": (1.5, 0),
     "blender": (2, 80, 0),
     "location": "",
