@@ -9,7 +9,7 @@ The add-on, also respects the users who prefer the 3D Cursor visibility permanen
 
 NOTE: THE 3D CURSOR MUST BE HIDDEN FIRST IN THE VIEWPORT OVERLAY TO SEE THE RESULT OF THE ADD-ON
 
-I have attached the addon to this email. Feel free to take a look. I have set the shortcut to '\'. It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build. 
+I have attached the addon to this email. Feel free to take a look. I have set the shortcut to Back slash \ key. It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build. 
 
 Also, Feel free to change the shortcut via keymap. just remember to call the operator: wm.3dcursor_autovisibility
 
