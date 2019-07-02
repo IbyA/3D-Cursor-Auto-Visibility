@@ -10,8 +10,8 @@ The add-on also respects the users who prefer the 3D Cursor visibility permanent
 NOTE: THE 3D CURSOR MUST BE HIDDEN FIRST IN THE VIEWPORT OVERLAY TO SEE THE RESULT OF THE ADD-ON
 
 # How to install
-1. Download
-2. Put the .py addon into the A ddons folder in your Blender Directory  
+1. Download the Repository
+2. Put the Reveal and Auto-Hide 3D Cursor Addon.py into the Addons folder in your Blender Directory  
 3. Open Blender 2.8
 4. go to Edit>Preferences
 5. click on Addons tab 
@@ -22,8 +22,6 @@ NOTE: THE 3D CURSOR MUST BE HIDDEN FIRST IN THE VIEWPORT OVERLAY TO SEE THE RESU
 Press the back slash key to make it reveal the 3D Cursor and press a different shortcut for a different tool to Auto-Hide the 3D Cursor 
 
 # customisations
-I have set the shortcut to Back slash \ key. It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build. 
+I have set the shortcut to Back slash \ key, feel free to change the shortcut via keymap. just remember to call the operator: wm.3dcursor_autovisibility 
 
-Also, Feel free to change the shortcut via keymap. just remember to call the operator: wm.3dcursor_autovisibility
-
-Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys!!😀
+It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build. Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys!!😀
