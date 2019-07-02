@@ -7,7 +7,7 @@ bl_info = {
     "description": "When shortcut is pressed, it reveals the 3D Cursor  and sets as acive tool but then when a different shortcut for a different tool, it automatically hides. The add-on, also respects the users who prefer the 3D Cursor visibility permanently on too via an if statement checking whether the 3d cursor is already visible or not.    ",
     "warning": "",
     "wiki_url": "",
-    "category": "3D Cursor",
+    "category": "3D View",
 }
 
 import bpy
