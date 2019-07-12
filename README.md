@@ -38,6 +38,9 @@ However, changing the keymap for the Toggle or Hold/Release function requires a 
 2. Click on open and locate '3D Cursor Auto-Visibility+.py'
 3. in  Lines 64, 67 and 120 change "SEMI_COLON" to any keymap you prefer.
 
+# Special Thanks
+- iceythe from Blenderartists.org
+- ScaredyFish from Blender.community
 
 #
 It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build. Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys!!😀
