@@ -5,9 +5,7 @@ A minor improvement to the 3D Cursor viewport overlay adding a bit more automati
 # How it works
 if the the 3D shortcut is pressed, it reveals the 3D Cursor but then when I press a different shortcut for a different tool, it automatically hides.  It’s a much better feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
 
-The add-on also respects the users who prefer the 3D Cursor visibility permanently on too via an if statement checking whether the 3d cursor is already visible or not.  If it is visible it just works as normal by setting the current tool to 3D Cursor. 
-
-NOTE: THE 3D CURSOR MUST BE HIDDEN FIRST IN THE VIEWPORT OVERLAY.
+The add-on also respects the users who prefer the 3D Cursor visibility permanently on too via an if statement checking whether the 3d cursor is already visible or not.  If it is visible it just works as normal by setting the current tool to 3D Cursor. SO THE 3D CURSOR MUST BE HIDDEN IN THE VIEWPORT OVERLAY FIRST OTHERWISE IT WILL JUST SET TO 3D CURSOR TOOL AS NORMAL.
 
 There are 2 versions of the addon, one is the Normal and the other has plus (+). The plus version is basically the same version as the normal one but has an additional function where you can toggle or Hold/release to change the visibility of the 3D Cursor and switch between the 3D Cursor tool and Box Select. 
 
