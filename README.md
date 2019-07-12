@@ -30,7 +30,8 @@ OR
 Hold Down " ; "  to reveal and set the 3D Cursor tool and then on release will Hide the 3D Cursor and Set B tool to Box Select tool.
 
 # Customisations
-Feel free to change the shortcut via keymap. Just remember to call the operator/function: wm.3dcursor_autovisibility.
+Feel free to change the shortcut via keymap. Just remember to call the operator/function: wm.3dcursor_autovisibility like here:
+![](images/Changing%20Shortcut.png)
 
 However, changing the keymap for the Toggle or Hold/Release function requires a bit of changing to the script. Dont worry, it should be easy to do by following this instructions:
 1. Go to Scripting tab in Blender2.8
