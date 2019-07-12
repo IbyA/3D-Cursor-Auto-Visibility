@@ -4,7 +4,7 @@
 A minor improvement to the 3D Cursor viewport overlay adding a bit more automation to the 3D Cursors visivbility. It would be awesome if it could be integrated into the Blender 2.8. 
 
 # Description
-if the the 3D shortcut is pressed, it reveals the 3D Cursor but then when I press a different shortcut for a different tool, it automatically hides.  It’s a much better feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
+if the the 3D shortcut is pressed, it reveals the 3D Cursor but then when a different shortcut for a different tool, it automatically hides.  It’s a much better feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
 
 The add-on also respects the users who prefer the 3D Cursor visibility permanently on too via an if statement checking whether the 3d cursor is already visible or not.  If it is visible it just works as normal by setting the current tool to 3D Cursor. SO THE 3D CURSOR MUST BE HIDDEN IN THE VIEWPORT OVERLAY FIRST OTHERWISE IT WILL JUST SET TO 3D CURSOR TOOL AS NORMAL.
 
