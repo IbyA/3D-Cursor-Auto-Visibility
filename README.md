@@ -12,7 +12,7 @@ NOTE: THE 3D CURSOR MUST BE HIDDEN FIRST IN THE VIEWPORT OVERLAY.
 There are 2 versions of the addon, one is the Normal and the other has plus (+). The plus version is basically the same version as the normal one but has an additional function where you can toggle or Hold/release to change the visibility of the 3D Cursor and switch between the 3D Cursor tool and Box Select. 
 
 # How to install
-1. Download the Repository
+1. Download '3D Cursor Auto-Visibility.py' or '3D Cursor Auto-Visibility+.py'
 2. Put the '3D Cursor Auto-Visibility.py' or '3D Cursor Auto-Visibility+.py' into the Addons folder in your Blender Directory  
 3. Open Blender 2.8
 4. Go to Edit>Preferences
