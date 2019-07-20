@@ -1,4 +1,4 @@
-# 3D Cursor Auto-Visibility V1.8.
+# 3D Cursor Auto-Visibility V2.0.
 
 # Summary
 A minor improvement to the 3D Cursor viewport overlay adding a bit more automation to the 3D Cursors visivbility. It would be awesome if it could be integrated into the Blender 2.8. 
@@ -6,38 +6,33 @@ A minor improvement to the 3D Cursor viewport overlay adding a bit more automati
 # Description
 if the the 3D shortcut is pressed, it reveals the 3D Cursor but then when a different shortcut for a different tool, it automatically hides.  It’s a much better feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
 
-The add-on also respects the users who prefer the 3D Cursor visibility permanently on too via an if statement checking whether the 3d cursor is already visible or not.  If it is visible it just works as normal by setting the current tool to 3D Cursor. SO THE 3D CURSOR MUST BE HIDDEN IN THE VIEWPORT OVERLAY FIRST OTHERWISE IT WILL JUST SET TO 3D CURSOR TOOL AS NORMAL.
+The 3D Cursor must be Hidden first via Viewport overlay. It doesnt Auto-Hide the 3D Cursor when it is already visible. It will just set the tool to 3D Cursor. This is for those special cases you dont want to Auto-Hide the 3D Cursor.
 
-There are 2 versions of the addon, one is the Normal and the other has plus (+). The plus version is basically the same version as the normal one but has an additional function where you can toggle or Hold/release to change the visibility of the 3D Cursor and switch between the 3D Cursor tool and Box Select. 
+# Whats New in V2.0?
+V2.0 now has a mini UI that allows you to customise the shortcut via a mini UI in the addon setting.
 
 # How to install
-1. Download '3D Cursor Auto-Visibility.py' or '3D Cursor Auto-Visibility+.py'
-2. Put the '3D Cursor Auto-Visibility.py' or '3D Cursor Auto-Visibility+.py' into the Addons folder in your Blender Directory  
+1. Download '3D Cursor Auto-Visibility 2.py' 
+2. Put the '3D Cursor Auto-Visibility 2.py' into the Addons folder in your Blender Directory  
 3. Open Blender 2.8
 4. Go to Edit>Preferences
 5. Click on Addons tab and select/check the addon
-7. Click on Keymaps and set the the keymap preference to your liking.
-7. Restart Blender 2.8 so that the addon makes the Shortcut is made depending on the keymap preferences you are using. " \ " for standard Blender, 27X or your own keymap preferences and " C " for Industry compatible keymap. 
-7. Hide the 3D Cursor in the Viewport overlay and it should be ready to use
+7. Change the Shortcut to your liking.
 
 # How to use
-Press the " \ " or the " C " (Depending on the keymap preference) key to make it reveal the 3D Cursor and press a different shortcut for a different tool to Auto-Hide the 3D Cursor 
+For 3D Cursor Auto-Visibility
+
+First check if the 3D Cursor is Hidden via Viewport overlay. The addon should already do that for you. (It doesnt Auto-Hide the 3D Cursor when it is already visible. It will just set the tool to 3D Cursor. This is for those special cases you dont want to Auto-Hide the 3D Cursor)
+
+Press the " \ "  for standard Blender, 27X or your own keymap preferences and " C " for Industry compatible keymap or whatever you changed the shortcut to.  When you use a different tool, the 3d Cursor should Auto-Hide for you.
+
+For Tap or Hold for 3D Cursor Visibility:
 
 For 3D Cursor Auto-Visibility+.py:
-Use previous instruction for the standard  reveal and auto Hide function.
 
-Tap " ; "  key to toggle on or off the visibilty of the 3D Cursor and switch tools to either the 3D Cursor tool or Box Select 
+Tap " ; "  key or whatever shortcut you have set it to for toggling the the visibilty of the 3D Cursor on or off and to switch tools to either the 3D Cursor tool or the previous tool 
 OR
-Hold Down " ; "  to reveal and set the 3D Cursor tool and then on release will Hide the 3D Cursor and Set B tool to Box Select tool.
-
-# Customisations
-Feel free to change the shortcut via keymap. Just remember to call the operator/function: wm.3dcursor_autovisibility like here:
-![](Images/Changing-Shortcut.png)
-
-However, changing the keymap for the Toggle or Hold/Release function requires a bit of changing to the script. Dont worry, it should be easy to do by following this instructions:
-1. Go to Scripting tab in Blender2.8
-2. Click on open and locate '3D Cursor Auto-Visibility+.py'
-3. in  Lines 64, 67 and 120 change "SEMI_COLON" to any keymap you prefer.
+Hold Down " ; " or whatever shortcut you have set it to in order to reveal and set the 3D Cursor tool and then on release will Hide the 3D Cursor and Set tool to the previous tool you were using.
 
 # Special Thanks
 - iceythe from Blenderartists.org
