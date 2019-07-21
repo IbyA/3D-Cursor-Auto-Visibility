@@ -34,7 +34,6 @@ Hold Down " ; " or whatever shortcut you have set it to in order to reveal and s
 
 # Special Thanks
 - iceythe from Blenderartists.org
-- ScaredyFish from Blender.community
 
 #
 It would be great if it could replace the existing shortcut for the 3D Cursor if it does get integrated into the blender build but for now, this addon is best workaround. Also, if anyone can suggest any improvements to enhance this add on further please let me know. Anyways keep making Blender even more awesome guys!!😀
