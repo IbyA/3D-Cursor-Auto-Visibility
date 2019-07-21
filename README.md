@@ -1,12 +1,12 @@
 # 3D Cursor Auto-Visibility V2.0.
 
 # Summary
-Whn you hide the 3D Cursor via viewport overlay and Press the 3D Cursor shortcut, the 3d cursor doesn't reappear. This minor improvement to the 3D Cursor viewport overlay adds bit more automation to the 3D Cursors visivbility. 
+I noticed that when you hide the 3D Cursor via viewport overlay and Press the 3D Cursor shortcut, the 3d cursor doesn't reappear. This addon is an improvement to that 3D Cursor viewport overlay and adds bit more automation to the 3D Cursors visibility. 
 
 # Description
-if the the 3D shortcut is pressed, it reveals the 3D Cursor but then when a different shortcut for a different tool, it automatically hides.  It’s a much better feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
+if the shortcut ( 'C' for industry compatible and ' \' for default and 27X) is pressed, it reveals the 3D Cursor and sets the active tool to 3D Cursor but then when using a different tool, it automatically hides.  It’s a much better than manually hiding/unhiding the 3D Cursor in the Viewport Overlay feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
 
-The 3D Cursor must be Hidden first via Viewport overlay. It doesnt Auto-Hide the 3D Cursor when it is already visible. It will just set the tool to 3D Cursor. This is for those special cases you dont want to Auto-Hide the 3D Cursor.
+The Auto-Hide feature does not work when the 3D Cursor is already visible. It will just set the active tool to 3D Cursor. This is useful for those special cases you don't want to Auto-Hide the 3D Cursor. If it is already hidden it will automatically hide when you press a different shortcut
 
 # Whats New in V2.0?
 V2.0 now has a mini UI that allows you to customise the shortcut via a mini UI in the addon setting.
