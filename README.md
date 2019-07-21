@@ -9,7 +9,8 @@ if the shortcut ( 'C' for industry compatible and ' \' for default and 27X) is p
 The Auto-Hide feature does not work when the 3D Cursor is already visible. It will just set the active tool to 3D Cursor. This is useful for those special cases you don't want to Auto-Hide the 3D Cursor. If it is already hidden it will automatically hide when you press a different shortcut
 
 # Whats New in V2.0?
-V2.0 now has a mini UI that allows you to customise the shortcut via a mini UI in the addon setting.
+V2.0 now has a mini UI that allows you to customise the shortcut or enable/disable features in the addon setting.
+
 
 # How to install
 1. Download '3D Cursor Auto-Visibility 2.py' 
