@@ -10,6 +10,7 @@ The Auto-Hide feature does not work when the 3D Cursor is already visible. It wi
 
 # Whats New in V2.0?
 V2.0 now has a mini UI that allows you to customise the shortcut or enable/disable features in the addon setting.
+![](Images/2.0 Addon Preferences Screenshot.png)
 
 
 # How to install
