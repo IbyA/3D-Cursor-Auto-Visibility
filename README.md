@@ -21,6 +21,8 @@ V2.0 now has a mini UI that allows you to customise the shortcut or enable/disab
 4. Go to Edit>Preferences
 5. Click on Addons tab and select/check the addon
 7. Change the Shortcut to your liking.
+8. (Optional) Hide 3D Cursor in each workspace using either the the View port Overlay shortcut you set for 'Tap or Hold for 3D Cursor Visibility shortcut' through the Viewport overlay. Then Go to File > defaults > Save Startup FIle to make the 3D Cursor hidden everytime you open up Blender 
+9. Restart Blender
 
 # How to use
 For 3D Cursor Auto-Visibility:
@@ -34,6 +36,9 @@ For Tap or Hold for 3D Cursor Visibility:
 Tap " ; "  key or whatever shortcut you have set it to for toggling the the visibilty of the 3D Cursor on or off and to switch tools to either the 3D Cursor tool or the previous tool 
 OR
 Hold Down " ; " or whatever shortcut you have set it to in order to reveal and set the 3D Cursor tool and then on release will Hide the 3D Cursor and Set tool to the previous tool you were using.
+
+# Errors
+if you encounter any errors pressing the shortcuts (Particularly Tap or Hold for 3D Cursor Visibility) tehn restart Blender and it should work fine. if the issue still persists Remove the Addon and reset the Keymaps back to defaults and then reinstall the Addon.
 
 # Special Thanks
 - iceythe from Blenderartists.org
