@@ -37,8 +37,14 @@ Tap " ; "  key or whatever shortcut you have set it to for toggling the the visi
 OR
 Hold Down " ; " or whatever shortcut you have set it to in order to reveal and set the 3D Cursor tool and then on release will Hide the 3D Cursor and Set tool to the previous tool you were using.
 
-# Errors
-if you encounter any errors pressing the shortcuts (Particularly Tap or Hold for 3D Cursor Visibility) tehn restart Blender and it should work fine. if the issue still persists Remove the Addon and reset the Keymaps back to defaults and then reinstall the Addon.
+# Fixing Error
+If you encounter any errors pressing the shortcuts (Particularly Tap or Hold for 3D Cursor Visibility), restart Blender and it should work fine. 
+
+If the issue still persists:
+1. Remove the Addon
+2. Reset the Keymaps back to defaults
+3. Delete the Blender Foundation folder in C:\Users\(YOUR USERNAME)\AppData\Roaming (Don't Worry, Blender will regenerate this folder)
+4. Reinstall the addon using the steps above.
 
 # Special Thanks
 - iceythe from Blenderartists.org
