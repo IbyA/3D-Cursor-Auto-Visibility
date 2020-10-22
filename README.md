@@ -1,8 +1,8 @@
+![](Images/Blender-Addon-Thumbnail2.png)
+
 # 3D Cursor Auto-Visibility V2.0.
 
 To download go to releases page here: https://github.com/IbyA/3D-Cursor-Auto-Visibility/releases/tag/2.0
-
-![](Images/Blender-Addon-Thumbnail2.png)
 
 # Summary
 I noticed that when you hide the 3D Cursor via viewport overlay and Press the 3D Cursor shortcut, the 3d cursor doesn't reappear. This addon is an improvement to that 3D Cursor viewport overlay and adds bit more automation to the 3D Cursors visibility. 
