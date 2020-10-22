@@ -1,4 +1,4 @@
-![](Images/Blender-Addon-Thumbnail2.png)
+![](Images/Blender-Addon-Thumbnail3.png)
 # 3D Cursor Auto-Visibility V2.0.
 
 To download go to releases page here: https://github.com/IbyA/3D-Cursor-Auto-Visibility/releases/tag/2.0
