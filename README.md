@@ -2,6 +2,7 @@
 
 # Summary
 I noticed that when you hide the 3D Cursor via viewport overlay and Press the 3D Cursor shortcut, the 3d cursor doesn't reappear. This addon is an improvement to that 3D Cursor viewport overlay and adds bit more automation to the 3D Cursors visibility. 
+![](Images/Blender-Addon-Gif.gif)
 
 # Description
 if the shortcut ( 'C' for industry compatible and ' \' for default and 27X) is pressed, it reveals the 3D Cursor and sets the active tool to 3D Cursor but then when using a different tool, it automatically hides.  It’s a much better than manually hiding/unhiding the 3D Cursor in the Viewport Overlay feature than assigning a shortcut and its really useful feature for other artists and save them from manually hiding and unhiding via viewport overlay too much. 
